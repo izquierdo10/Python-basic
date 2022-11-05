@@ -10,7 +10,7 @@
 - [x] si 
 - [ ] no
 
-**python-avanced** --->*15 ejercicios* :lock:
+**python-advanced** --->*15 ejercicios* :lock:
 - [ ] si 
 - [x] no
 
