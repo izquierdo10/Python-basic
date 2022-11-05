@@ -1,5 +1,4 @@
-# Python-levels
-### python-basic 
-15 ejercicios
-### python-inter
-15 ejercicios
+# Python-levels 
+[![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
+#### python-basic ######--->15 ejercicios
+#### python-inter ######--->15 ejercicios
