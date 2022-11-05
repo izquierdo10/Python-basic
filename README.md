@@ -1,4 +1,4 @@
-# Python-levels 🐍
+# *Python-levels* 🐍
 
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 
@@ -14,5 +14,3 @@
 - [ ] si 
 - [x] no
 
-`rgb(9, 105, 218)`
-rgb(9, 105, 218)
