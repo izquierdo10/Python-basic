@@ -5,9 +5,11 @@
 **python-basic** --->*15 ejercicios*
 - [x] si 
 - [ ] no
+
 **python-inter** --->*15 ejercicios*
 - [x] si 
 - [ ] no
+
 **python-avanced** --->*15 ejercicios*
 - [ ] si 
 - [x] no
