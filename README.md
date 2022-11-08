@@ -2,15 +2,21 @@
 
 [![Python](https://img.shields.io/badge/Python-3.9+-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)](https://python.org)
 
-**python-basic** --->*15 ejercicios*
+##### *Basic* --->*15 ejercicios*
 - [x] si  
 - [ ] no   
 
-**python-inter** --->*15 ejercicios*
+##### *Intermediate* --->*15 ejercicios*
 - [x] si 
 - [ ] no
 
-**python-advanced** --->*15 ejercicios* :lock:
+##### *Advanced* --->*15 ejercicios* 
+[![conexion mysql](https://img.shields.io/badge/mysql--connector--python-8.0.31-blue)](https://pypi.org/project/mysql-connector-python/#history)
+- [x] si             
+- [ ] no
+
+##### *Expert* --->*15 ejercicios* :lock:
 - [ ] si 
 - [x] no
+
 
