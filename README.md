@@ -11,7 +11,7 @@
 - [ ] no
 
 ##### *Advanced* --->*15 ejercicios* 
-[![conexion mysql](https://img.shields.io/badge/mysql--connector--python-8.0.31-blue)](https://pypi.org/project/mysql-connector-python/#history)
+[![](https://img.shields.io/badge/MySQL-8.0.31-aqua)](https://dev.mysql.com/downloads/mysql/) [![conexion mysql](https://img.shields.io/badge/mysql--connector--python-8.0.31-blue)](https://pypi.org/project/mysql-connector-python/#history) 
 - [x] si             
 - [ ] no
 
