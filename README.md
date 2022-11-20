@@ -60,6 +60,10 @@ configuracion previa al comando check:
 
 ------------------------------------------------------------------------
 
+<p align="center">
+  <img width="8%" height="10%" src="https://sqlitebrowser.org/images/sqlitebrowser.svg">
+</p>
+
 *insertar, modificar, borrar y ver datos de la BD desde el shell*
 ````
 python manage.py shell --> ingresar al shell
