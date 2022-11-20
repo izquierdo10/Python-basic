@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<body>
+   
+{% include "barra.html" %} <!– incrustamos una plantilla dentro de una plantilla –> 
+
+<h1>bucles y condiconales en plantilla python</h1>
+<h3 style ="color: aqua">--- for each ----</h3>
+
+ {% for x in lista2  %} 
+    
+    {{x}}
+ 
+ {% endfor %}
+ <h3 style ="color: aqua">--- for each reversed----</h3>
+
+ {% for x in lista3   %} 
+    
+    {{x}}
+
+{% endfor %}
+<p>---------------------------------------------</p>
+{% for x in lista3 reversed  %} 
+    
+    {{x}}
+
+{% endfor %}
+
+ 
+<h3 style ="color: aqua">--- condicionales ----</h3>
+<h4>variable: {{num}}</h4>
+
+{% if num == 3 %}
+<h4>el numero de la variable es igual a 3</h4>
+ {% elif num == 9 %}
+ <h4>el numero de la variable es igual a 9</h4>
+  {% elif num < 50 %}
+  <h4>el numero de la variable es menor a 50</h4>
+   {% elif num >= 100 %}
+   <h4>el numero de la variable es mayor o igual a 100</h4>
+{% else %}
+     <h4>el numero no cumple con los  condicionales</h4>
+     
+{% endif %}
+<h3 style ="color: aqua">--- filtros ----</h3>
+<p>sin filtro--->  {{filtros}}</p>
+<p>filtro mayuscula--->  {{filtros|upper}}</p>
+<p>filtro primera letra--->  {{filtros|first}}</p>
+<p>filtro primera letra en Mayuscula--->  {{filtros|first|upper}}</p>
+<p>filtro ultima letra en Mayuscula--->  {{filtros|last|upper}}</p>
+
+</body>
+</html>

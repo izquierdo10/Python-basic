@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html
+>
+<head>
+ 
+    <title>
+
+       {% block title %} {% endblock %}
+
+    </title>
+
+</head>
+
+<body>
+
+ <h1 style="background-color:teal; text-align: center;">curso de Django</h1>
+
+ {% include 'barra.html' %}
+ 
+ <h3>ejercicios dinamicos y elegantes</h3>
+
+ {% block content %} {% endblock %}
+
+
+ <p style="background-color:powderblue; text-align: right;">cursos gratuitos y documentacion</p>
+</body>
+
+</html>

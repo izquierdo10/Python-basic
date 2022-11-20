@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>busqueda de producto</title>
+
+</head>
+
+<body>
+<h2>que producto quiere consultar</h2>
+
+
+     <form action="/resultadoFormulario3/" method="POST">{% csrf_token %}
+    
+         <input type="text" name="prd">
+
+         <input type="submit" value="Buscar">
+ 
+     </form>
+
+</body>
+
+</html>
