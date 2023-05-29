@@ -1,17 +1,17 @@
-##### *numpy* -------------------->
+##### *numpy* -------------------->*5 ejercicios*
 - [x] si  
 - [ ] no   
 
-##### *pandas* ------------->
+##### *pandas* ------------------->*10 ejercicios*
 - [x] si 
 - [ ] no
 
-##### *tkinter* -----------------> 
+##### *tkinter* ------------------> Calculadora
 
 - [x] si             
 - [ ] no
 
-##### *turtle* ------------------->
-[![dj]
+##### *turtle* ------------------->Juego de la Serpiente 
+
 - [x] si 
 - [ ] no
